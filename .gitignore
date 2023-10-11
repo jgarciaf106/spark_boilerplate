@@ -1,0 +1,6 @@
+# ignore all
+app-logs/ *.log
+
+__pycache__/
+
+# except for the following files
